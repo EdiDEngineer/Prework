@@ -18,7 +18,7 @@ The following **required** functionality is complete:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://i.imgur.com/mWXFn7w.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/XtkP82K.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [Ezgif](https://ezgif.com/video-to-gif).
 
